@@ -19,7 +19,7 @@ Complete the Codecademy course at [https://www.codecademy.com/learn/introduction
 This is not how our course will be taught ­­but it’s great to get yourself as familiar as possible with some of the syntax of the language.
 
 ### Command Line
-Mastery of command line basics is essential for any developer (and extremely useful for non­devs) and will make your life much easier. Go through the following tutorial, paying special attention to the instructions to create notecards for memorization. You won't have to memorize many things in this course, but memorizing command line commands is essential: [https://www.codecademy.com/courses/learn-the-command-line](https://www.codecademy.com/courses/learn-the-command-line)
+Mastery of command line basics is essential for any developer (and extremely useful for non­devs) and will make your life much easier. Go through the following tutorial, paying special attention to the instructions to create notecards for memorization. You won't have to memorize many things in this course, but memorizing command line commands is essential: [https://www.codecademy.com/courses/learn-the-command-line/lessons/navigation/exercises/your-first-command](https://www.codecademy.com/courses/learn-the-command-line/lessons/navigation/exercises/your-first-command)
 
 ### Software
 Before starting at PunchCode you will need a few pieces of free software. Please download and install the following software.
